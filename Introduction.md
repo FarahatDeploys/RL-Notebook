@@ -20,4 +20,8 @@ the major difference between RL and other paradigms is
 Reinforcement learning relies on the assumption that any goal can be achieved by increasing the cumulative reward, and the agent's role will be to maximize the cumulative reward.
 for example, an agent controlling a power plant will receive a positive reward for generating power and a negative reward for exceeding the safety threshold.
 
-in summary, we can say that the agent will be **receiving observation and reward** from the environment but producing **actions**.
+
+in summary, we can say that the agent will be **receiving observation and reward** from the environment but producing **actions** at **every time step**.
+
+
+
