@@ -11,10 +11,10 @@ the major difference between RL and other paradigms is
 
 ## Applications 
 
--Flying Helicopter 
--defeating the world champion in the go game.
--Investment portfoliolio
--Power Plant Control 
+-Flying Helicopter <br>
+-Defeating the world champion in the go game. <br>
+-Investment portfolio. <br>
+-Power Plant Control. <br> 
 
 ## RL Problem and Definitions 
 Reinforcement learning relies on the assumption that any goal can be achieved by increasing the cumulative reward, and the agent's role will be to maximize the cumulative reward.
