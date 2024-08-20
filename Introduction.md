@@ -21,8 +21,8 @@ Reinforcement learning relies on the assumption that any goal can be achieved by
 for example, an agent controlling a power plant will receive a positive reward for generating power and a negative reward for exceeding the safety threshold.
 
 
-in summary, we can say that the agent will be **receiving observation and reward** from the environment but producing **actions** at **every time step**.
+in summary, we can say that the agent will be **receiving observation and reward** from the environment but producing **actions** at **every time step**.<br>
 
-**History** can be defined as a sequence of actions, observations, and rewards, our goal given the history is to build a mapping algorithm between the History and Actions.
-**State** is defined as the information used to determine what to do next, we can say that state is a function of history.
+**History** can be defined as a sequence of actions, observations, and rewards, our goal given the history is to build a mapping algorithm between the History and Actions.<br>
+**State** is defined as the information used to determine what to do next, we can say that state is a function of history.<br>
 
