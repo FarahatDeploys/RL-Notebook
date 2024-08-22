@@ -1,8 +1,8 @@
 # Introduction
 RL can be defined as the science of decision-making, and how to make the best sequence of decisions, this makes RL intersection between different fields (optimal control, economics, neuroscience, etc..)
-<div style="text-align: center;">
+<center>
 <img src="Images/RL_1.png" alt="Alt text" width="600"/>
-</div>
+</center>
 
 
 ## What makes RL different from other Machine Learning Paradigms?
