@@ -38,5 +38,10 @@ The RL is associated with Dynamic Programming, by Dynamic the lecturer means som
 at it's heart dynamic programming is a techiniques to solve complex problems by breaking them into smaller problems and eventually solve the subproblems and combining those solutions to form a solution for the complex problem.
 
 
+**Dynamic Programming** is a very general solution for a problem that has 2 main proprties.
+- optimal substructure
+- overlapping subproblems
+
+
 
 
