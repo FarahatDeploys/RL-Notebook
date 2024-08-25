@@ -39,8 +39,22 @@ at it's heart dynamic programming is a techiniques to solve complex problems by 
 
 
 **Dynamic Programming** is a very general solution for a problem that has 2 main proprties.
-- optimal substructure
-- overlapping subproblems
+- optimal substructure (subproblems reccur many times).
+- overlapping subproblems (Solutions can be cashed and reused).
+
+Markov Decision process satisfy both proprties, 
+- Bellman equation gives the recursive decomposition.
+- Value function stores and reeuse the solution.
+
+Dynamic programming assumes full knowledge of MDP which is not true in case of (RL) but it can be used for Planning in a MDP.
+
+the input for the problem will be the whole MDP including (S,A,P,R,Gamma) and the output will be the value function.
+
+dynamic programming is used to solve different problems such as: 
+-Scheduling Algorithm 
+-String Algorithm ()
+-Graph Algorithm ()
+
 
 
 
