@@ -30,3 +30,13 @@ in summary, we can say that the agent will be **receiving observation and reward
 **History** can be defined as a sequence of actions, observations, and rewards, our goal given the history is to build a mapping algorithm between the History and Actions.<br>
 **State** is defined as the information used to determine what to do next, we can say that state is a function of history.<br>
 
+
+
+# Lecture 3 
+The RL is associated with Dynamic Programming, by Dynamic the lecturer means something sequential or have temporal aspect and by programming we don't mean c programming but mathmatical programming which can be understood as optimising, if you can recall something called linear programming. <br>
+
+at it's heart dynamic programming is a techiniques to solve complex problems by breaking them into smaller problems and eventually solve the subproblems and combining those solutions to form a solution for the complex problem.
+
+
+
+
