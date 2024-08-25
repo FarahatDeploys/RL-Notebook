@@ -55,6 +55,11 @@ dynamic programming is used to solve different problems such as:
 -String Algorithm ()
 -Graph Algorithm ()
 
+## Policy Evaluation 
+in this problem we would like to evaluate a specific police (pi), to solve this problem we will be iterating over the bellman equation.
+we start with arbitrary value V1 and iterate over it to reach (Vpi) <br>
+V1 -> V2 -> ... -> V(Pi). <br>
+at every iteration we will sweep over all different states and update them, eventually the value function will convertge to V(Pi)
 
 
 
